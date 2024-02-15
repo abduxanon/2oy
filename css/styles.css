@@ -242,8 +242,6 @@
   top: -0.11px;
   bottom: 71.88px;
   border-radius: 3px;
-
-  /* box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.2); */
 }
 .desc-img-text {
   /* In the navigator tab located in the right panel you can see all your elements in one place. */
@@ -770,4 +768,249 @@
   line-height: 20px;
   letter-spacing: 0%;
   text-align: center;
+}
+.main-container {
+  /* Frame */
+  position: absolute;
+  width: 1152px;
+  height: 429px;
+  left: 144px;
+  right: 144px;
+  top: 2268.25px;
+  bottom: 229.75px;
+}
+
+.tips {
+  /* Additional tips */
+  position: absolute;
+  width: 205px;
+  height: 36px;
+  left: 0%;
+  right: 82.2%;
+  top: 18.75px;
+  bottom: 374.25px;
+  color: rgb(51, 51, 51);
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.tips-ichki1 {
+  /* Frame */
+  position: absolute;
+  width: 298px;
+  height: 333px;
+  left: 0;
+  right: 894px;
+  top: 0;
+  bottom: 0;
+}
+.tips-img {
+  /* IMAGE */
+  position: absolute;
+  width: 229px;
+  height: 163px;
+  left: 0.71%;
+  right: 16.44%;
+  top: 100.25px;
+  bottom: 190.25px;
+  border-radius: 3px;
+}
+.tips-text {
+  /* Margin / Padding */
+  position: absolute;
+  width: 140px;
+  height: 24px;
+  left: 6.71%;
+  right: 46.31%;
+  top: 294.75px;
+  bottom: 116.25px;
+  color: rgb(51, 51, 51);
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.tips-textp {
+  position: absolute;
+  width: 243px;
+  height: 96px;
+  left: 0.71%;
+  right: 11.74%;
+  top: 339.75px;
+  bottom: 7.25px;
+  color: rgb(51, 51, 51);
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.tips-ichki2 {
+  /* Frame */
+  position: absolute;
+  width: 298px;
+  height: 333px;
+  left: 298px;
+  right: 596px;
+  top: 0;
+  bottom: 0;
+}
+.tips-img2 {
+  /* IMAGE */
+  position: absolute;
+  width: 342px;
+  height: 236px;
+  left: 6.71%;
+  right: 12.08%;
+  top: 74.25px;
+  bottom: 187.25px;
+  border-radius: 3px;
+
+  /* box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.2);
+background: url(); */
+}
+
+.tips-text2 {
+  /* Add Elements */
+  position: absolute;
+  width: 112px;
+  height: 24px;
+  left: 67.71px;
+  right: 55.7%;
+  top: 265.75px;
+  bottom: 133.25px;
+  color: rgb(51, 51, 51);
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.tips-textp2 {
+  position: absolute;
+  width: 232px;
+  height: 96px;
+  left: 79.71px;
+  right: 15.44%;
+  top: 322.75px;
+  bottom: 24.25px;
+  color: rgb(51, 51, 51);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.tips3 {
+  /* Frame */
+  position: absolute;
+  width: 298px;
+  height: 333px;
+  left: 596px;
+  right: 298px;
+  top: 0;
+  bottom: 0;
+}
+.tips-img3 {
+  /* IMAGE */
+  position: absolute;
+  width: 273px;
+  height: 140px;
+  left: 6.71%;
+  right: 11.74%;
+  top: 80px;
+  bottom: 253.25px;
+  border-radius: 3px;
+}
+
+.tips-text3 {
+  /* Responsive design */
+  position: absolute;
+  width: 151px;
+  height: 24px;
+  left: 24.71%;
+  right: 42.62%;
+  top: 189.75px;
+  bottom: 199.25px;
+  color: rgb(51, 51, 51);
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.tips-textp3 {
+  position: absolute;
+  width: 246px;
+  height: 144px;
+  left: 21.71%;
+  right: 10.74%;
+  top: 246.75px;
+  bottom: 42.25px;
+  color: rgb(51, 51, 51);
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.tips4 {
+  /* Frame */
+  position: absolute;
+  width: 298px;
+  height: 333px;
+  left: 894px;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.tips-img5 {
+  /* IMAGE */
+  position: absolute;
+  /* width: 240px;
+  height: 113px; */
+  left: 6.71%;
+  right: 12.75%;
+  top: 51.25px;
+  bottom: 220.25px;
+}
+.tips-text5 {
+  /* States */
+  position: absolute;
+  width: 52px;
+  height: 24px;
+  left: 30.71%;
+  right: 75.84%;
+  top: 222.75px;
+  bottom: 166.25px;
+}
+.tips-textp5 {
+  position: absolute;
+  width: 250px;
+  height: 144px;
+  left: 26.71%;
+  right: 9.4%;
+  top: 279.75px;
+  bottom: 9.25px;
+  color: rgb(51, 51, 51);
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
 }
